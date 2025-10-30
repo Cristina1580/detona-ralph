@@ -25,6 +25,7 @@ Bem-vindo ao **Detona Ralph**! Neste repositório, você encontrará um jogo div
 2. Abra o arquivo `index.html` em seu navegador web.
 3. Clique nos quadrados onde o Ralph aparece para marcar pontos.
 4. Evite perder vidas e tente alcançar a maior pontuação possível!
+5. Ou entre através do link https://cristina1580.github.io/detona-ralph/
 
 ## 🤝 Contribuição
 
